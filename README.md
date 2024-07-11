@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ReySkumcnut
-- 👀 I’m interested in programming malware and generally software
-- 🌱 I’m currently learning Rust and C
+- 👀 I’m interested in low-level programming
+- 🌱 I’m currently learning C, planning to learn Rust
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me reyautopsy@gmail.com
+- 📫 How to reach me: reyautopsy@gmail.com
 - 😄 Pronouns: xir/xie/xay/xuy
 - ⚡ Fun fact: How do you call a syndrome that affects only short people? Down syndrome.
 
