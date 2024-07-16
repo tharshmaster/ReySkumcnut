@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReySkumcnut
+- 👋 Hi, I’m Risc.
 - 👀 I’m interested in low-level programming
 - 🌱 I’m currently learning C, planning to learn Rust
 - 💞️ I’m looking to collaborate on anything
